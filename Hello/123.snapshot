@@ -993,8 +993,8 @@
           "name" : "RouteOnAttribute",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 400.0,
-            "y" : 104.0
+            "x" : 440.0,
+            "y" : 208.0
           },
           "properties" : {
             "Routing Strategy" : "Route to Property name",
